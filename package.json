@@ -2,6 +2,7 @@
   "name": "react-calc",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://razcristea.github.io/react-calc/",
   "dependencies": {
     "mathjs": "^6.2.5",
     "react": "^16.12.0",
